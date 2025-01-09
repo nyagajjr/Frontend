@@ -1,0 +1,27 @@
+body {
+    background: whitesmoke;
+
+}
+
+.main{ 
+    margin-top: 200px;
+
+}
+
+.logo-img{
+
+    display: block;
+
+    width: 300px;
+    
+}
+
+.search-input{
+
+    display: block;
+    width: 400px;
+    
+}
+
+
+
