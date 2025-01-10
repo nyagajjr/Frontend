@@ -1,0 +1,9 @@
+img{
+    width: 250px;
+}
+
+.card{
+    border: 2px dotted rgba(0, 0, 0, 0.651);
+    background: rgb(228, 228, 118);
+    padding: 20px;
+}
