@@ -3,7 +3,12 @@ img{
 }
 
 .card{
+    display: flex;
     border: 2px dotted rgba(0, 0, 0, 0.651);
     background: rgb(228, 228, 118);
     padding: 20px;
+}
+
+.items{
+    margin-left: 10px;
 }
