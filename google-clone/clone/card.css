@@ -1,19 +1,22 @@
 img{
     width: 250px;
-    border: 2px dotted rgba(0, 0, 0, 0.651);
+    border: 2px dotted #d8cefe;
 }
 
 .card{
+    font-family: 'Courier New', Courier, monospace;
     display: flex;
-    border: 10px double rgba(0, 0, 0, 0.651);
-    background: #2176ae;
+    border-bottom: 6px solid#d8cefe;
+    background: #ddebf8;
     padding: 20px;
     width: 600px;
     justify-content: space-around;
-    margin-right: auto;
-    margin-left: auto;
+    margin: 0 auto;
+    text-align: center;
 }
 
-.items{
 
+h1{
+    text-align: center;
 }
+
