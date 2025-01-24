@@ -3,15 +3,14 @@
     font-family: Armalite;
 }
 body{
-    background-image: url(https://media2.giphy.com/media/cJf3QB5FNCUNJlswau/200.webp?cid=ecf05e471nlwyemqndxy0wnkvd3ne2zgd1z885fkarlgmliq&ep=v1_gifs_related&rid=200.webp&ct=g);
     background-size: cover;
     color: rgb(31, 82, 132);
+    margin: 0;
    
 }
 
 .header{
-    text-align: center;
-    font-family: Armalite;
+    
 }
 
 .btn{
@@ -32,4 +31,17 @@ body{
 #logo{
     width: 200px;
     background: none;
+}
+
+#hero{
+    background-image: url(https://media2.giphy.com/media/cJf3QB5FNCUNJlswau/200.webp?cid=ecf05e471nlwyemqndxy0wnkvd3ne2zgd1z885fkarlgmliq&ep=v1_gifs_related&rid=200.webp&ct=g);
+    background-size: cover;
+    padding: 10px 0 40px 0;
+    text-align: center;
+    font-family: Armalite;
+}
+
+h3{
+    font-family: Armalite;
+    text-align: center;
 }
