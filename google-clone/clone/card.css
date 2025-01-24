@@ -1,18 +1,19 @@
 img{
     width: 250px;
-    border: 2px dotted #d8cefe;
+    border: 2px dotted #0BA320;
 }
 
 .card{
     font-family: 'Courier New', Courier, monospace;
     display: flex;
-    border-bottom: 6px solid#d8cefe;
-    background: #ddebf8;
+    border-bottom: 6px solid#0BA320;
+    background: #001021;
     padding: 20px;
     width: 600px;
     justify-content: space-around;
     margin: 0 auto;
     text-align: center;
+    color: #0BA320;
 }
 
 

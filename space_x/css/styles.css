@@ -1,0 +1,22 @@
+@font-face {
+    src: url("armalite.ttf");
+    font-family: Armalite;
+}
+body{
+    background-image: url(../images/diego-ph-5LOhydOtTKU-unsplash.jpg);
+    background-size: cover;
+    color: white;
+   
+}
+
+.header{
+    text-align: center;
+    font-family: Armalite;
+}
+
+.btn{
+    font-family: inherit;
+    padding: 10px 20px;
+    background: white;
+    border: none;
+}
