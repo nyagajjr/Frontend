@@ -3,9 +3,9 @@
     font-family: Armalite;
 }
 body{
-    background-image: url(../images/diego-ph-5LOhydOtTKU-unsplash.jpg);
+    background-image: url(https://media2.giphy.com/media/cJf3QB5FNCUNJlswau/200.webp?cid=ecf05e471nlwyemqndxy0wnkvd3ne2zgd1z885fkarlgmliq&ep=v1_gifs_related&rid=200.webp&ct=g);
     background-size: cover;
-    color: white;
+    color: rgb(31, 82, 132);
    
 }
 
@@ -16,7 +16,20 @@ body{
 
 .btn{
     font-family: inherit;
+    font-size: medium;
     padding: 10px 20px;
-    background: white;
+    background: rgb(168, 169, 172);
     border: none;
+    color: rgb(31, 82, 132)
+}
+
+.underline{
+
+    border-bottom: 6px solid rgb(168, 169, 172); 
+    color: rgb(168, 169, 172);
+}
+
+#logo{
+    width: 200px;
+    background: none;
 }
